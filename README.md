@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-In this work, we show all the steps to build a classification model to fraudulent transactions using credit cards. The steps described throughout this document will follow the following sequence: introduction, objectives, dataset, method, results and conclusions.
+In this work, we show all the steps to build a classification model to fraudulent transactions using credit cards.
 
 # Dataset
 
